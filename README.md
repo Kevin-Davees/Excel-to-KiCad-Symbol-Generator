@@ -7,11 +7,6 @@ This tool automates the repetitive and error-prone process of manually creating 
 ---
 
 # GUI Preview
-
-> Replace the image below with your actual GUI screenshot.
-
----
-GUI Preview
 ![GUI Preview](assets/GUI.png)
 ---
 
