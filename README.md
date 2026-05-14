@@ -11,6 +11,7 @@ This tool automates the repetitive and error-prone process of manually creating 
 > Replace the image below with your actual GUI screenshot.
 
 ```markdown
+# GUI Preview
 ![GUI Preview](assets/GUI.png)
 ```
 
