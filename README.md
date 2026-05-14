@@ -11,7 +11,7 @@ This tool automates the repetitive and error-prone process of manually creating 
 > Replace the image below with your actual GUI screenshot.
 
 ```markdown
-![GUI Preview](images/gui_preview.png)
+![GUI Preview](assets/GUI.png)
 ```
 
 Recommended repository structure:
