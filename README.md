@@ -10,10 +10,10 @@ This tool automates the repetitive and error-prone process of manually creating 
 
 > Replace the image below with your actual GUI screenshot.
 
-```markdown
-# GUI Preview
+---
+GUI Preview
 ![GUI Preview](assets/GUI.png)
-```
+---
 
 Recommended repository structure:
 
@@ -21,7 +21,7 @@ Recommended repository structure:
 project-root/
 │
 ├── assets/
-│   └── gui_preview.png
+│   └── GUI.png
 │
 ├── excel_to_kicad_symbol.py
 └── README.md
